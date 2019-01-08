@@ -5,3 +5,6 @@
 
 
 ### Your Code Here ###
+secAge = 1160 * 10**6
+ans = secAge / 60 / 60 / 24 / 365.25
+puts "The author is " + ans.to_s + " years old."

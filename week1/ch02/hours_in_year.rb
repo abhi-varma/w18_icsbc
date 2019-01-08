@@ -5,3 +5,6 @@
 
 
 ### Your Code Here ###
+ans = 365 * 24
+leapAns = ans + 24
+puts "There are " + ans.to_s + " hours in a year and " + leapAns.to_s + " hours in a leap year."

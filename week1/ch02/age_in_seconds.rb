@@ -5,3 +5,5 @@
 
 
 ### Your Code Here ###
+ans = (150 * 365.25 * 24 * 60 * 60) + (281 * 24 * 60 * 60)
+puts "UC Berkeley is " + ans.to_s + " seconds old."
